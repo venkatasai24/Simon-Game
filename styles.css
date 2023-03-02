@@ -26,6 +26,21 @@ body {
   border-radius: 20%;
 }
 
+.start {
+  font-family: 'cursive';
+  font-size: 2rem ;
+  margin: 20px;
+  display: inline-block;
+  height: 50px;
+  width: 100px;
+
+} 
+
+.start:hover {
+  background-color: silver ;
+  border-radius: 5%;
+}
+
 .game-over {
   background-color: red;
   opacity: 0.8;
